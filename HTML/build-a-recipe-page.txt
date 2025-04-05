@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Recipe for disaster</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>A recipe for disaster</h1>
+    <p>This is a twist. It's a recipe for disaster, brought to you by my personal screw ups. Proceed with caution.</p>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg", alt="Not an accurate image">
+    <h2>Ingredients</h2>
+    <ul>
+      <li>No discipline</li>
+      <li>No sense of time</li>
+      <li>A heaping amount of procrastination</li>
+      <li>An almost childlike innocence to the reality of the world</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Think motivation is what you need and not discipline.</li>
+      <li>Think that time will go by slowly.</li>
+      <li>Procrastinate on progressing your skills because undiagnosed anxiety makes you think you're going to fail before you even try.</li>
+      <li>Think that the world is kind and understanding rather than cruel and cutthroat.</li>
+    </ol>
+  </body>
+</html>
